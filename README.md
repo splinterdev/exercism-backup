@@ -49,7 +49,7 @@ F         F
 ![Java](https://img.shields.io/badge/Java-f08c00?style=flat&logo=openjdk&logoColor=white)
 
 > [!NOTE]
-> Link para o código contém várias pastas com diferentes submissões de acordo com melhorias realizadas no código e a mais recente é a de número maior. Código deste desafio em específico ainda está sendo melhorado😅.
+> Pasta do desafio contém várias subpastas com diferentes submissões de melhorias realizadas e a mais recente é a de número maior. Código deste desafio em específico ainda está sendo melhorado😅.
 
 Dado um número, é retornado a sua expressão por extenso na lingua inglesa.
 <br>
