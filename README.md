@@ -6,7 +6,7 @@
 
 Exercícios de código que realizo diariamente na plataforma [Exercism](https://exercism.org/profiles/IsaacMartins-code) a fim de exercitar constantemente minha lógica de programação e minha capacidade de solução de problemas. Neste readme destaco os principais desafios que realizei na plataforma.
 
-## 1. Diamond kata💎 ([ver o código](https://github.com/splinterdev/exercism-backup/blob/main/solutions/java/diamond/1/src/main/java/DiamondPrinter.java))
+## 1. Diamond kata💎 - [ver o código](https://github.com/splinterdev/exercism-backup/blob/main/solutions/java/diamond/1/src/main/java/DiamondPrinter.java)
 ![Java](https://img.shields.io/badge/Java-f08c00?style=flat&logo=openjdk&logoColor=white)
 
 Dada uma letra, é imprimido um losango começando com 'A', com a letra fornecida no ponto mais largo.
@@ -45,7 +45,7 @@ F         F
      A                           
 ```
 
-## 2. Say📨 ([ver o código](https://github.com/splinterdev/exercism-backup/tree/main/solutions/java/say))
+## 2. Say📨 - [ver o código](https://github.com/splinterdev/exercism-backup/tree/main/solutions/java/say)
 ![Java](https://img.shields.io/badge/Java-f08c00?style=flat&logo=openjdk&logoColor=white)
 
 > [!NOTE]
@@ -77,7 +77,7 @@ Este desafio me permitiu ver na prática passagem e manipulação de objetos em 
 nine hundred eighty-seven billion six hundred fifty-four million three hundred twenty-one thousand one hundred twenty-three
 ```
 
-## 3. Grains🌽([ver código](https://github.com/splinterdev/exercism-backup/blob/main/solutions/java/grains/1/src/main/java/Grains.java))
+## 3. Grains🌽 - [ver código](https://github.com/splinterdev/exercism-backup/blob/main/solutions/java/grains/1/src/main/java/Grains.java)
 ![Java](https://img.shields.io/badge/Java-f08c00?style=flat&logo=openjdk&logoColor=white)
 
 Desafio relacionado a lenda sobre o pedido de recompensa realizada por um servo a um rei, que consistia em um grão de trigo para a primeira casa do tabuleiro de xadrez e o dobro para cada próxima casa. No desafio, dado um número de uma casa do tabuleiro, é retornado a quantidade de grãos dessa casa. Também há um método que calcula a quantidade de grãos totais em um tabuleiro.
