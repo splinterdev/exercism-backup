@@ -16,7 +16,7 @@ Este desafio me permitiu compreender como unicode de letras do alfabeto latino f
 
 ### Exemplo
 
-#### chamada do método na main e forEach:
+#### chamada do método na main e println com forEach:
 
 ```java
      public class Program {
@@ -58,7 +58,7 @@ Este desafio me permitiu ver na prática passagem e manipulação de objetos em 
 
 ### Exemplo
 
-#### chamada do método na main e sout:
+#### chamada do método na main e println:
 
 ```java
      public class Program {
@@ -84,7 +84,7 @@ Desafio relacionado a lenda sobre o pedido de recompensa realizada por um servo 
 
 ### Exemplo
 
-#### chamada do método na main e sout:
+#### chamada do método na main e println:
 
 ```java
      public class Program {
